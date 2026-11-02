@@ -1,0 +1,19 @@
+PARA TI, MAMÁ — INSTRUCCIONES
+
+1. Descomprime la carpeta "for-you-mom".
+2. Abre index.html en tu navegador para probar la página.
+3. Coloca tus fotografías en assets/images y nómbralas:
+   foto1.jpg, foto2.jpg y foto3.jpg.
+4. Si tienes foto 4 o foto 5:
+   - Coloca foto4.jpg o foto5.jpg en assets/images.
+   - En index.html busca "FOTO 4 OPCIONAL" o "FOTO 5 OPCIONAL".
+   - En la etiqueta <figure> correspondiente, elimina el atributo hidden.
+5. Si tus fotos son PNG o WEBP, cambia también la extensión en el src de index.html.
+6. Para personalizar las frases debajo de cada foto, edita el texto dentro de <figcaption>.
+7. Abre index.html para revisar los cambios.
+
+IMPORTANTE:
+- Mantén la carpeta css y js junto a index.html.
+- Se necesita internet para cargar las tipografías de Google Fonts.
+- Las fotografías son archivos locales; no se suben a ningún sitio al abrir la página.
+- Para compartirla con tu mamá mediante un enlace, tendrás que publicarla en un servicio de hosting estático, por ejemplo GitHub Pages o Netlify.
